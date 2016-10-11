@@ -1,0 +1,6 @@
+1|Dhruv Samant|90831142|dhruvsamant@gmail.com|1
+2|Divesh Biyani|86542364|diveshbiyani@gmail.com|2
+3|Ankur Bansal|94203032|bansalankur10@gmail.com|1
+4|Saloni Gupta|84344837|saloni010@hotmail.com|2
+5|Neethu Mohanan|96699184|neethumohanan@gmail.com|1
+6|Yusuf Raza|85063480|raza0003@e.ntu.edu.sg|1

@@ -1,0 +1,12 @@
+1|Rahul Bharti|Male|Manager
+2|Dhruv Sharma|Male|Manager
+3|Divesh Biyani|Male|Financer
+4|Amit Kumar|Male|Waiter
+5|Rajat Sharma|Male|Waiter
+6|Dhruv Samant|Male|Owner
+7|Arijit Singh|Male|Singer
+8|Shreya Ghoshal|Female|Singer
+9|Sunidhi Chauhan|Female|Singer
+10|Sukriti Singh|Female|Waiter
+11|Gurdeep Kaur|Female|Waiter
+12|Dhruv Sharma|Male|Waiter

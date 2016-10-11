@@ -1,0 +1,17 @@
+Dal Makhani|abcd|true|6.5
+Dal Tadhka|abcd|true|6.5
+Masala Dosa|abcd|true|8.5
+Rawa Masala Dosa|abcd|true|9
+Shahi Paneer|abcd|true|7.5
+Matar Paneer|abcd|true|7.5
+Paneer Butter Masala|abcd|true|8.5
+Palak Paneer|abcd|true|8
+Methi Paneer|abcd|true|6.5
+Navratan Korma|abcd|true|8.5
+Butter Chicken|abcd|true|9.5
+Afghani Chicken|abcd|true|10
+Kali Mirch Chicken|abcd|true|9
+Kadhai Chicken|abcd|true|9.5
+Handi Chicken|abcd|true|9.5
+Mutton Masala|abcd|true|10.5
+Pompfret Curry|abcd|true|11

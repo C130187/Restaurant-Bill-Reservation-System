@@ -1,0 +1,7 @@
+Rooh Afza|Refreshing rose drink|true|4.5
+Neembu Pani|Refreshing lime drink|true|2.5
+Coconut Water|Prepared from fresh coconuts|true|3.0
+Lassi|Punjab's Glory|true|3.5
+Badam Milk|Milk with almonds|true|3.5
+Kesar Milk|Milk with saffron and cardamom|true|4.0
+Sharbat|Refreshing orange juice|true|3.0

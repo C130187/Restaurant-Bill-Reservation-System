@@ -1,0 +1,7 @@
+Kalakand|Sweet Dish|true|4.5
+Son Papdi|Sweet Dish|true|4.0
+Shondesh|Bengali Sweet Dish|true|3.5
+Shrikhand|Gujarati Sweet Dish|true|5.0
+Mishti Doi|Bengali Sweet Dish|true|5.0
+Mysore Pak|Sweets made of pure ghee|true|6.0
+Rasmalai|abcde|true|5.0

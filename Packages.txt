@@ -1,0 +1,10 @@
+North Indian Veg Thali|abcd|true|10.5
+North Indian Non Veg Thali|abcd|true|13.5
+South Indian Veg Thali|abcd|true|11.5
+South Indian Non Veg Thali|abcd|true|12.5
+Rajasthani Thali|abcd|true|13
+Gujarati Thali|abcd|true|12.5
+Bengali Thali|abcd|true|13.5
+Kashmiri Thali|abcd|true|14
+Malayali Thali|abcd|true|13.5
+Punjabi Thali|abcd|true|15

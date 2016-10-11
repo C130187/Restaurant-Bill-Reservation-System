@@ -1,0 +1,8 @@
+11:00|PM|13/11/14|Shuvam Nandi|14|4|North Indian Non Veg Thali-13.5-Rooh Afza-4.5-Mishti Doi-5.0-Mysore Pak-6.0-|33.93
+11:10|PM|13/11/14|Shuvam Nandi|9|2|Rasmalai-5.0-Masala Dosa-8.5-|15.795
+11:13|PM|13/11/14|Satyam Shivam|10|3|Masala Dosa-8.5-Dal Makhani-6.5-Rasmalai-5.0-|23.4
+11:15|PM|13/11/14|Yusuf Raza|10|8|Lassi-3.5-Kalakand-4.5-Rasmalai-5.0-Mysore Pak-6.0-Shondesh-3.5-Masala Dosa-8.5-Masala Dosa-8.5-Masala Dosa-8.5-|56.16
+11:26|PM|13/11/14|Ankur Bansal|10|3|Lassi-3.5-Son Papdi-4.0-Rasmalai-5.0-|14.625
+11:27|PM|13/11/14|Ankur Bansal|10|2|Lassi-3.5-Son Papdi-4.0-|8.775
+11:28|PM|13/11/14|Ankur Bansal|13|3|Kalakand-4.5-Mysore Pak-6.0-Rasmalai-5.0-|18.135
+11:35|PM|13/11/14|Ankur Bansal|13|3|Lassi-3.5-Kalakand-4.5-Rasmalai-5.0-|12.349999
